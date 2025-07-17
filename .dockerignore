@@ -1,0 +1,43 @@
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Git
+.git/
+.gitignore
+
+# Docker itself
+Dockerfile
+.dockerignore
+
+# Model weights & checkpoints (optional, jika terlalu besar & kamu load dari cloud)
+*.h5
+*.pkl
+
+# Logs
+*.log
+
+# Editor configs & settings
+.vscode/
+.idea/
+
+# Other
+*.tar.gz
+*.egg-info/
+dist/
+build/
