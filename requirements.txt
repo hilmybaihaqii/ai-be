@@ -9,3 +9,4 @@ tensorflow-cpu
 pytz
 cryptography>=41.0.1
 scikit-learn
+python-dotenv
